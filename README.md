@@ -1,5 +1,5 @@
 # List of Configs:
-**P.S:** All configs except scripts edited by ***HeeChan***.
+> All configs except scripts edited by ***HeeChan***.
 
 # Contract with me: 
 [![Support][support-badge]][support-link] [![YouTube][youtube-badge]][youtube-link]
